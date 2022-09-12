@@ -1,0 +1,39 @@
+header {
+    background-color: #1F2937;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    margin-top: 0px;
+
+}
+
+body {
+    
+}
+
+section {
+    float: left;
+    width: 45%;
+}
+
+aside {
+    float: right;
+    width: 45%;
+}
+
+footer {
+    background-color: #1F2937;
+    clear: both;
+    color: #FFF;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.container {
+    background-color: #FFF;
+
+}
